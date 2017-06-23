@@ -8,7 +8,7 @@ img.onclick = function(){
 
   if (file_name === 'images/abc.jpg') {
 
-    img.setAttribute('src', 'images/abc2.jpg');
+    img.setAttribute('src', 'images/abc2.JPG');
   }
   else{
 
